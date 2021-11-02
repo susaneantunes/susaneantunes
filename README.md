@@ -11,12 +11,16 @@ I am a Salesforce Marketing Cloud Developer, currently working for SumUp. Throug
 
 - IKEA 
 - Adidas
-- Tommy Hilfigher 
-- Calvin Klein
+- Pernod Ricard
+  - Absolut 
+- PVH
+  - Tommy Hilfigher 
+  - Calvin Klein
 - Grand Hotel SE
 - Johnson & Johnson 
+  - Neutrogena 
+  - Vision Care
 - Embraer
-
 
 **susaneantunes/susaneantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
