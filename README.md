@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+<!--
 I am a Salesforce Marketing Cloud Developer, currently working for SumUp. Throught my Marketing Cloud journey I have worked with many clients
 
-<!--
+
 - Fazer Food 
 - Norwegian Business School 
 - CBB Mobil 
