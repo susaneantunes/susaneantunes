@@ -1,6 +1,22 @@
 ### Hi there 👋
 
+I am a Salesforce Marketing Cloud Developer, currently working for SumUp. Throught my Marketing Cloud journey I have worked with many clients
+
 <!--
+- Fazer Food 
+- Norwegian Business School 
+- CBB Mobil 
+- Bilia SE 
+
+- IKEA 
+- Adidas
+- Tommy Hilfigher 
+- Calvin Klein
+- Grand Hotel SE
+- Johnson & Johnson 
+- Embraer
+
+
 **susaneantunes/susaneantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
