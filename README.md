@@ -8,6 +8,7 @@ I am a Salesforce Marketing Cloud Developer, currently working for SumUp. Throug
 - Norwegian Business School 
 - CBB Mobil 
 - Bilia SE 
+- BASF
 
 - IKEA 
 - Adidas
@@ -21,6 +22,7 @@ I am a Salesforce Marketing Cloud Developer, currently working for SumUp. Throug
   - Neutrogena 
   - Vision Care
 - Embraer
+
 
 **susaneantunes/susaneantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
